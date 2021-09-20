@@ -28,10 +28,24 @@ p {
 	font-size: 14px;
 	font-weight: 400;
 	font-family: "Poppins", "Helvetica", "Arial", sans-serif;
+	
+}
+#footer .copyright-content{
+	min-height: 80px;
+	padding: 30px 0;
+	font-size: 13px;
+}
+
+.p-t-20{
+	padding-top: 20px;
+}
+.p-b-20{
+	padding-bottom: 20px;
 }
 
 #footer p {
 	font-family: "Poppins", "Helvetica", "Arial", sans-serif;
+	
 }
 
 #footer .widget .widget-title,
@@ -40,6 +54,7 @@ p {
 	font-size: 14px;
 	letter-spacing: 1px;
 	font-weight: 600;
+	
 }
 
 #footer .widget .widget-title ul li a,
